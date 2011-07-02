@@ -4,7 +4,7 @@
 Simply put, magnet links are like HTTP web addresses, but rather than pointing to a website, they point to a torrent file, and an associated torrent tracker.
 
 ==Why use a magnet link?==
-Magnet links have a distinct advantage over downloading a .torrent file: since it's a link, the user doesn't have to download anything, just enter the magnet link, and the torrent program does the rest.
+Magnet links have a distinct advantage over downloading a .torrent file: since it's a link, the user doesn't have to download anything. Just enter the magnet link, and the torrent program does the rest. Especially in iTransmission, this avoids the cumbersome task of having to search for .torrent files and add them manually.
 
 ==How do I us magnet links with iTransmission?==
 On computers, magnet links can be associated with the relevant torrent application; however, on iOS, this cannot be (currently) done, to my knowledge. However, magnet links are still relatively easy to use, simply by copying-and-pasting, like thus:
