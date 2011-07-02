@@ -10,7 +10,7 @@ Magnet links have a distinct advantage over downloading a .torrent file: since i
 On computers, magnet links can be associated with the relevant torrent application; however, on iOS, this cannot be (currently) done, to my knowledge. However, magnet links are still relatively easy to use, simply by copying-and-pasting, like thus:
 
  # If the torrent website you're visiting has a magnet link, press and hold the link until Mobile Safari prompts you to either OPEN or COPY the link. Choose COPY:
-  http://s7.tinypic.com/1z2gite_th.jpg
+  [http://tinypic.com/m/elcxa0/3 http://s7.tinypic.com/1z2gite_th.jpg]
  # Open (or switch to) iTransmission, and click on the + symbol in the lower left-hand corner:
   http://s7.tinypic.com/5zqf0l_th.jpg
  # Click the "magnet" button:
