@@ -8,7 +8,7 @@ Users have requested the ability to continue running transfers in the background
    * _Other applications/tweaks may need to be installed as a dependency, such as [http://cydia.saurik.com/package/libactivator Activator]; Cydia will install these automatically if needed._
 
 ==How to enable backgrounding for iTransmission==
- # Once installed from Cydia, go into the iOS Settings, choose `LastApp`, and make sure the option "Backgrounding" is set to ON.
+ # Once installed from Cydia, go into the iOS Settings, choose [http://cydia.saurik.com/package/jp.ashikase.lastapp LastApp], and make sure the option "Backgrounding" is set to ON.
  # Close the Settings app.
  # Open the Backgrounder app configuration, and select "Overrides".
  # Click the "Add" button in the upper right-hand side, and scroll to the entry for iTransmission.
