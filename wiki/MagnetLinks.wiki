@@ -16,7 +16,7 @@ On computers, magnet links can be associated with the relevant torrent applicati
  # Click the "magnet" button:
   [http://tinypic.com/m/elcxa0/3 http://s7.tinypic.com/29y2p9e_th.jpg]
  # Press once in the magnet field, and a pop-up should appear with the option to Paste:
- [http://tinypic.com/m/elcxaa/3 http://s7.tinypic.com/5ds512_th.jpg]
+  [http://tinypic.com/m/elcxaa/3 http://s7.tinypic.com/5ds512_th.jpg]
  # Click the "OK" button.
  # The magnet link will become a torrent. Torrents are added in a paused state, so click "RESUME" in the left-hand corner of the torrent.
   http://s7.tinypic.com/2ykhmk6_th.jpg
