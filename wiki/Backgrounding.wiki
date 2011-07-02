@@ -19,4 +19,4 @@ Users have requested the ability to continue running transfers in the background
  # Change the entry for "Backgrounding state" - "Stay Enabled" to *ON*.
  # Press the Home button on the device to exit. The device will respring to load the new Backgrounder settings.
 iTransmission will now run in the background, even at the lock screen, and won't automatically pause any downloads.
-==This has been tested and verified working under iOS 4.3.3 and lower==
+==<font color="red">This has been tested and verified working under iOS 4.3.3 and lower.</font>==
