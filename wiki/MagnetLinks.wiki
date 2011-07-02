@@ -12,9 +12,11 @@ On computers, magnet links can be associated with the relevant torrent applicati
  # If the torrent website you're visiting has a magnet link, press and hold the link until Mobile Safari prompts you to either OPEN or COPY the link. Choose COPY:
   [http://tinypic.com/m/elcxa0/3 http://s7.tinypic.com/1z2gite_th.jpg]
  # Open (or switch to) iTransmission, and click on the + symbol in the lower left-hand corner:
-  http://s7.tinypic.com/5zqf0l_th.jpg
+  [http://tinypic.com/m/elcx9v/3 http://s7.tinypic.com/5zqf0l_th.jpg]
  # Click the "magnet" button:
-  http://s7.tinypic.com/29y2p9e_th.jpg
+  [http://tinypic.com/m/elcxa0/3 http://s7.tinypic.com/29y2p9e_th.jpg]
+ # Press once in the magnet field, and a pop-up should appear with the option to Paste:
+ [http://tinypic.com/m/elcxaa/3 http://s7.tinypic.com/5ds512_th.jpg]
  # Click the "OK" button.
  # The magnet link will become a torrent. Torrents are added in a paused state, so click "RESUME" in the left-hand corner of the torrent.
   http://s7.tinypic.com/2ykhmk6_th.jpg
