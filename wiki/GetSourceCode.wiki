@@ -1,0 +1,7 @@
+#summary Where and how to get up-to-date source code
+
+Source code is hosted on [https://github.com/ccp0101/iTransmission GitHub].
+
+{{{
+git clone git://github.com/ccp0101/iTransmission.git
+}}}
