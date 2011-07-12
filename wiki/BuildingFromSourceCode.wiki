@@ -5,7 +5,7 @@
   # Get build.sh from source repository, e.g. https://raw.github.com/ccp0101/iTransmission/master/make_depend/build.sh
   # Edit $ARCH in build.sh to either i386 for simulator or armv7 for device
   # Edit package versions in build.sh
-  # Execute build.sh will automatically fetch required source code and patch them
+  # Execute build.sh will automatically fetch required source code, patch and build them
   # If successfully built, output files will be in $PWD/out, including transmission-daemon and libtransmission.a
 
 = Building iTransmission =
